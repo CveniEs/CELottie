@@ -19,6 +19,7 @@ For the first time, designers can create and ship beautiful animations without a
   s.source_files = 'CELottie/**/*'
 
   s.ios.frameworks = ['UIKit', 'CoreGraphics', 'QuartzCore']
+  
   s.module_name = 'Lottie'
 
 end
